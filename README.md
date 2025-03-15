@@ -11,4 +11,9 @@
    wget https://raw.githubusercontent.com/00firefly00/Firewall/main/firewall.sh
 
 2. **Дать права:**
-    '''sh chmod +x firewall.sh
+   ```sh
+   chmod +x firewall.sh
+
+3. **Запустить:**
+   ```sh
+   ./firewall.sh
