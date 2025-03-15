@@ -9,3 +9,6 @@
 1. **Скачать скрипт:**  
    ```sh
    wget https://raw.githubusercontent.com/00firefly00/Firewall/main/firewall.sh
+2. ***Дать права***
+    '''ch
+    chmod +x firewall.sh
