@@ -20,4 +20,4 @@
 
 ## Меню управления фаерволом
 
-![Меню управления фаерволом][![IMG-20250316-173106.jpg](https://i.postimg.cc/Gt9WqTzz/IMG-20250316-173106.jpg)](https://postimg.cc/WqLY43BJ)
+[![IMG-20250316-173106.jpg](https://i.postimg.cc/Gt9WqTzz/IMG-20250316-173106.jpg)](https://postimg.cc/WqLY43BJ)
