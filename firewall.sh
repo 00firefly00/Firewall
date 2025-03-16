@@ -36,8 +36,8 @@ install_fail2ban() {
     if ! command -v fail2ban-client &> /dev/null; then
         echo -e "${RED}Fail2Ban не установлен! Устанавливаю...${NC}"
         apt update && apt install -y fail2ban
-        systemctl enable --now fail2ban
-        echo -e "${GREEN}Fail2Ban установлен и запущен!${NC}"
+        systemctl enable --now fail2ban  # Включение Fail2Ban в автозапуск
+        echo -e "${GREEN}Fail2Ban установлен, запущен и добавлен в автозапуск!${NC}"
     fi
 }
 
