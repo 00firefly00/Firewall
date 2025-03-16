@@ -168,7 +168,7 @@ while true; do
                 clear
                 echo -e "${GREEN}Меню Fail2Ban:${NC}"
                 echo "1) Установить Fail2Ban"
-                echo "2) Показать статус Fail2Ban"
+                echo "2) Показать статус заблокированных IP для SSH"
                 echo "3) Показать отчёт Fail2Ban"
                 echo "0) Назад"
                 echo "Выберите действие: "
@@ -176,7 +176,7 @@ while true; do
 
                 case $fail2ban_option in
                     1) install_fail2ban ;;
-                    2) show_fail2ban_report ;;
+                    2) sudo fail2ban-client status sshd ;;
                     3) show_fail2ban_report ;;
                     0) break ;;
                     *) echo -e "${RED}Неверный ввод!${NC}" ;;
