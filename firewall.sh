@@ -142,7 +142,7 @@ install_script
 while true; do
     clear
     echo -e "${GREEN}Меню управления UFW и Fail2Ban:${NC}"
-    echo "1) Включить UFW (22, 80, 443)"
+    echo "1) Включить UFW (22,80,443 открыты по умолчанию)"
     echo "2) Отключить UFW"
     echo "3) Сбросить настройки UFW"
     echo "4) Добавить правило"
