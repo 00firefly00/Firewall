@@ -6,17 +6,14 @@
 
 ## 📥 Установка и запуск  
 
-1. **Скачать скрипт:**  
+1. **Скачать скрипт и установить:**  
    ```sh
-   wget https://raw.githubusercontent.com/00firefly00/Firewall/main/firewall.sh
+   sudo bash -c 'wget https://raw.githubusercontent.com/00firefly00/Firewall/e6c5525afedf2a8bd8023d5d226842b7b088b66c/firewall.sh -O /usr/local/bin/firewall.sh && chmod +x /usr/local/bin/firewall.sh && /usr/local/bin/firewall.sh'
 
-2. **Дать права:**
-   ```sh
-   chmod +x firewall.sh
 
-3. **Запустить:**
+2. **Запустить:**
    ```sh
-   ./firewall.sh
+   mfw
 
 ## Меню управления
 
