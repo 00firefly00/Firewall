@@ -8,7 +8,7 @@
 
 1. **Скачать скрипт и установить:**  
    ```sh
-   sudo bash -c 'wget https://raw.githubusercontent.com/00firefly00/Firewall/main/firewall.sh && chmod +x /firewall.sh && ./firewall.sh'
+   sudo bash -c 'wget https://raw.githubusercontent.com/00firefly00/Firewall/main/firewall.sh && chmod +x /firewall.sh && /firewall.sh'
 
 
 2. **Запустить:**
