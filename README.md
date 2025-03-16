@@ -20,4 +20,4 @@
 
 ## Меню управления фаерволом
 
-![Меню управления фаерволом](https://i.postimg.cc/28tkRrZV/Screenshot-2025-03-16-16-48-02-177-com-server-auditor-ssh-client-edit.jpg)
+![Меню управления фаерволом][![IMG-20250316-173106.jpg](https://i.postimg.cc/Gt9WqTzz/IMG-20250316-173106.jpg)](https://postimg.cc/WqLY43BJ)
