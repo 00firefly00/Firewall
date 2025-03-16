@@ -17,4 +17,4 @@
 
 ## Меню управления
 
-[![IMG-20250316-173106.jpg](https://i.postimg.cc/Gt9WqTzz/IMG-20250316-173106.jpg)](https://postimg.cc/WqLY43BJ)
+[![Screenshot-2025-03-16-22-31-57-179-com-server-auditor-ssh-client-edit.jpg](https://i.postimg.cc/50tL08xx/Screenshot-2025-03-16-22-31-57-179-com-server-auditor-ssh-client-edit.jpg)](https://postimg.cc/PLBPVppc)
