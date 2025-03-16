@@ -47,9 +47,14 @@ show_fail2ban_report() {
 enable_ufw() {
     ufw default deny incoming  # Блокировать все входящие соединения
     ufw default allow outgoing # Разрешить все исходящие соединения
-    ufw allow 22/tcp           # Разрешить SSH (порт 22)
-    ufw enable                 # Включить UFW
-    echo -e "${GREEN}Брандмауэр включен! Все порты заблокированы, кроме SSH (22).${NC}"
+    
+    # Разрешить SSH, HTTP и HTTPS
+    ufw allow 22/tcp  # SSH
+    ufw allow 80/tcp  # HTTP
+    ufw allow 443/tcp # HTTPS
+    
+    ufw enable # Включить UFW
+    echo -e "${GREEN}Брандмауэр включен! Разрешены порты: 22 (SSH), 80 (HTTP), 443 (HTTPS).${NC}"
 }
 
 # Функция отключения UFW
