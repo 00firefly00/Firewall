@@ -17,3 +17,7 @@
 3. **Запустить:**
    ```sh
    ./firewall.sh
+
+## Меню управления фаерволом
+
+![Меню управления фаерволом](https://i.postimg.cc/28tkRrZV/Screenshot-2025-03-16-16-48-02-177-com-server-auditor-ssh-client-edit.jpg)
