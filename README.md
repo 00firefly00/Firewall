@@ -17,4 +17,8 @@
 
 ## Меню управления
 
-[![Screenshot-2025-03-16-22-31-57-179-com-server-auditor-ssh-client-edit.jpg](https://i.postimg.cc/50tL08xx/Screenshot-2025-03-16-22-31-57-179-com-server-auditor-ssh-client-edit.jpg)](https://postimg.cc/PLBPVppc)
+[![Screenshot-2025-03-18-21-15-19-014-com-server-auditor-ssh-client-edit.jpg](https://i.postimg.cc/wvHDMJMd/Screenshot-2025-03-18-21-15-19-014-com-server-auditor-ssh-client-edit.jpg)](https://postimg.cc/FfWYnY0P)
+
+[![Screenshot-2025-03-18-21-15-49-425-com-server-auditor-ssh-client-edit.jpg](https://i.postimg.cc/J4gJJS0x/Screenshot-2025-03-18-21-15-49-425-com-server-auditor-ssh-client-edit.jpg)](https://postimg.cc/Mv7vJPyf)
+
+[![Screenshot-2025-03-18-21-16-28-388-com-server-auditor-ssh-client-edit.jpg](https://i.postimg.cc/Pxt8TjVX/Screenshot-2025-03-18-21-16-28-388-com-server-auditor-ssh-client-edit.jpg)](https://postimg.cc/R3D0Ljzy)
