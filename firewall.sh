@@ -13,7 +13,8 @@ INSTALL_PATH="/usr/local/bin/mfw"
 install_script() {
     cp "$SCRIPT_PATH" "$INSTALL_PATH"
     chmod +x "$INSTALL_PATH"
-    echo -e "${GREEN}Скрипт автоматически установлен! Теперь можно использовать команду 'mfw'.${NC}"
+    echo -e "${GREEN}Скрипт установлен! Теперь можно запускать командой 'mfw'.${NC}"
+    exit 0  # Завершаем выполнение скрипта после установки
 }
 
 # Автоматическая установка, если запуск происходит через ./firewall.sh
